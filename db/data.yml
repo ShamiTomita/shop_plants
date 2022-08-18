@@ -1,0 +1,235 @@
+
+---
+ar_internal_metadata:
+  columns:
+  - key
+  - value
+  - created_at
+  - updated_at
+  records: 
+  - - environment
+    - development
+    - '2022-08-18 02:41:03.864315'
+    - '2022-08-18 02:41:03.864315'
+
+---
+products:
+  columns:
+  - id
+  - name
+  - description
+  - price
+  - light
+  - watering
+  - temp
+  - pet_friendly
+  - img
+  - created_at
+  - updated_at
+  records: 
+  - - 1
+    - Devils Ivy
+    - Pothos, aka Devil’s Ivy, features trailing green & yellow, heart-shaped foliage
+      with white marble variegation
+    - 40
+    - Indirect light; can tolerate lower light
+    - When top 1' of soil is dry to the touch; do not allow soil to stay too wet or
+      dry for extended periods of time
+    - 60-80
+    - f
+    - plants/devils_ivy.png
+    - '2022-08-18 02:49:59.843853'
+    - '2022-08-18 02:49:59.843853'
+  - - 2
+    - Parlor Palm Plant
+    - Parlor Palm is a beautiful, multi-stemmed plant with fun, feathery fronds at
+      top
+    - 45
+    - Thrives in bright, indirect light. Also tolerates low light
+    - In general, weekly; water more often during growing season, but keep it light
+      during the winter
+    - 65-90
+    - f
+    - plants/parlor_palm_plant.png
+    - '2022-08-18 02:49:59.849127'
+    - '2022-08-18 02:49:59.849127'
+  - - 3
+    - Snake Plant
+    - Tall, green blade-like leaves with subtle light green striping
+    - 68
+    - Low light/partial shade, though ok in moderate indirect light
+    - Drought tolerant. Water only when soil is dry to touch
+    - 65-90
+    - f
+    - plants/snake_plant.png
+    - '2022-08-18 02:49:59.851088'
+    - '2022-08-18 02:49:59.851088'
+  - - 4
+    - Money Tree Plant
+    - Money Tree Plant features a uniquely braided trunk with clusters of green leaves
+      at top
+    - 132
+    - Prefers bright, indirect light
+    - Do it thoroughly once a week, and let the soil dry between waterings
+    - 65-90
+    - t
+    - plants/money_tree.png
+    - '2022-08-18 02:49:59.852936'
+    - '2022-08-18 02:49:59.852936'
+  - - 5
+    - Rubber Plant
+    - Raindrop Peperomia, aka Baby Rubber Plant, features thick, dark-green, variegated
+      succulent leaves that have a light silver stripe down the midvein
+    - 68
+    - Medium to bright light; no direct sunlight
+    - When top 1' of soil is dry to touch; leaves are succulent in nature and can
+      tolerate less watering
+    - 60-90
+    - t
+    - plants/rubber_plant.png
+    - '2022-08-18 02:49:59.854725'
+    - '2022-08-18 02:49:59.854725'
+  - - 6
+    - Peace Lilly
+    - 'Peace Lily plant has broad, dark green leaves and the occasional white calla
+      lily flower on a tall stem
+
+      '
+    - 55
+    - Best in bright, indirect light; can tolerate low light levels, but will produce
+      more blooms with more light
+    - Once a week, or when top inch of soil is dry
+    - 65-90
+    - f
+    - plants/peace_lilly.png
+    - '2022-08-18 02:49:59.859559'
+    - '2022-08-18 02:49:59.859559'
+  - - 7
+    - Zz Plant
+    - 'ZZ Floor Plant has deep green leaves that alternate on the stem in a herringbone
+      pattern
+
+      '
+    - 72
+    - Low to moderate light; indirect sunlight
+    - Water when top 1” of soil is dry to the touch
+    - 60-90
+    - f
+    - plants/zz_plant.png
+    - '2022-08-18 02:49:59.870120'
+    - '2022-08-18 02:49:59.870120'
+  - - 8
+    - Red Anthurium
+    - Bright, glossy leaves with 4+ red, heart-shaped blooms
+    - 65
+    - Medium to bright light will encourage max blooms
+    - Place 6 ice cubes on top of soil or ½ a cup of water per week
+    - 65-85
+    - f
+    - plants/red_anthurium_plant.png
+    - '2022-08-18 02:49:59.881990'
+    - '2022-08-18 02:49:59.881990'
+  - - 9
+    - Diffenbachia Plant
+    - Dumb cane plant (aka Dieffenbachia maculata) has medium green leaves speckled
+      with creamy yellow centers
+    - 40
+    - Bright, indirect light. Will tolerate low light as well
+    - Once a week, when top soil is dry
+    - 65-90
+    - f
+    - plants/dieffenbachia_plant.png
+    - '2022-08-18 02:49:59.892861'
+    - '2022-08-18 02:49:59.892861'
+  - - 10
+    - Monstera Plant
+    - 'Bush-like in shape with stems featuring large cutout leaves
+
+      '
+    - 130
+    - Grows faster in a bright, indirect sunlight spot but also tolerates low light
+    - Water it enough to keep the soil from drying out completely - but it is semi
+      drought tolerant!
+    - 65-90
+    - f
+    - plants/dieffenbachia_plant.png
+    - '2022-08-18 02:49:59.895546'
+    - '2022-08-18 02:49:59.895546'
+  - - 11
+    - Fiddle Leaf Fig Plant
+    - 'Fiddle leaf fig has a narrow stem with big, dark green, fiddle-shaped leaves
+
+      '
+    - 135
+    - Set it by a bright & sunny window for consistent light
+    - Water thoroughly but only when soil is dry to the touch!
+    - 65-90
+    - f
+    - plants/fiddle_leaf_fig_plant.png
+    - '2022-08-18 02:49:59.897502'
+    - '2022-08-18 02:49:59.897502'
+  - - 12
+    - String of Pearls Succulents
+    - 'String of Pearls is a trailing vine with dense, round shaped foliage
+
+      '
+    - 72
+    - Bright, indirect light...but if grown outside, needs warm filtered light
+    - Thristier in warmer months than cold, its best to water when soil is dry to
+      the touch. Let soil dry between waterings.
+    - 65-90
+    - f
+    - plants/string_of_pearls_succulents.png
+    - '2022-08-18 02:49:59.899525'
+    - '2022-08-18 02:49:59.899525'
+  - - 13
+    - Birds of Paradise
+    - 'Birds of Paradise Floor plant features long, banana-like glossy leaves
+
+      '
+    - 120
+    - Lots of bright, direct sunlight helps this plant to flourish; a sunroom or outdoors
+      is best
+    - Keep soil moist spring through fall; in the winter, allow top 2' to dry out
+      before watering
+    - 60-80
+    - f
+    - plants/birds_of_paradise.png
+    - '2022-08-18 02:49:59.901635'
+    - '2022-08-18 02:49:59.901635'
+  - - 14
+    - Bromeliad
+    - The Vriesea Intenso Orange, or flaming sword houseplant, is one of the showiest
+      bromeliads known for its bright orange spike, lasting as long as 3–6 months.
+      It is a colorful, easy indoor plant that will brighten up any space. Added bonus,
+      it's non-toxic, making it safe to keep around curious pets.
+    - 88
+    - Thrives in bright indirect light, but can tolerate a few hours of direct sun.
+    - Each week, add water to the leaf cups (water tank), the center area created
+      by overlapping leaves. As water cups tend to collect debris and insects, empty
+      out each week and add new water. Bromeliads can be sensitive to hard tap water.
+      Try using filtered water or leaving water out overnight before using. For best
+      results, mist weekly and provide an additional source of humidity like a pebble
+      tray or humidifier.
+    - 65-90
+    - t
+    - plants/bromeliad.jpg
+    - '2022-08-18 02:49:59.903763'
+    - '2022-08-18 02:49:59.903763'
+  - - 15
+    - Button Fern
+    - 'Despite the Button Fern''s appearance, with adorable button-like leaflets attached
+      to delicate stems, it is a tough little fern: On the cliffs of its native New
+      Zealand, it can withstand a variety of temperatures and humidity. This plant
+      is pet-friendly!'
+    - 74
+    - Thrives in bright indirect light. Not suited for low light conditions or direct
+      sun.
+    - Water every 1-2 weeks allowing soil to dry out halfway between waterings. Expect
+      to water more oftern in brighter light and less often in lower light. This plant
+      can benefit from higher humidity but can tolerate normal room humidity levels.
+    - 65-90
+    -
+    - plants/button_fern.jpg
+    - '2022-08-18 02:49:59.905637'
+    - '2022-08-18 02:49:59.905637'

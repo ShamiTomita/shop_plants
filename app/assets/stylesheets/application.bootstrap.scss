@@ -1,2 +1,57 @@
 @import 'bootstrap/scss/bootstrap';
 @import 'bootstrap-icons/font/bootstrap-icons';
+
+img{
+    width:100%;
+  }
+  .container{
+    display: flex;
+    flex-direction: column;
+  }
+  .product-card{
+    padding: 10px;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+   justify-content: center;
+   align-items: center;
+
+  }
+
+  .product-show{
+    display: none;
+    background: white;
+    background-color: white;
+    width:100%;
+    overflow-y: scroll;
+    align-self: center;
+    position: fixed;
+    top:100px;
+    bottom: 100px;
+    left:500px;
+    align-items: center;
+    text-align:center;
+
+    flex-direction: column;
+    z-index: 10;
+    border-width: thick;
+
+  }
+  .product-show img{
+    position: relative;
+    top:-50px;
+    width:100%
+  }
+
+  .card-text{
+    font-size: 10px;
+  }
+  .x-button{
+    position: sticky;
+    width: 10%;
+    top:0px;
+    left:1000px;
+  }
+  .navbar li{
+    display: inline;
+  }

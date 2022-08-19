@@ -4,24 +4,32 @@
 img{
     width:100%;
   }
+  .main{
+    padding-top: 10rem;
+  }
   .container{
-    display: flex;
-    flex-direction: column;
+    padding: 2rem;
+  }
+  .plants{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-gap: 1rem;
   }
   .product-card{
-    padding: 10px;
-    position: relative;
-    display: flex;
-    flex-direction: column;
-   justify-content: center;
-   align-items: center;
-
+    margin: 1rem;
+    padding: 1rem;
+  border-style: groove;
+  border-color: coral;
+  border-width: medium;
+  }
+  .product-card:hover{
+    box-shadow: 1rem 1rem 1rem teal;
   }
 
   .product-show{
     display: none;
-    background: white;
-    background-color: white;
+
+    background-color: teal;
     width:100%;
     overflow-y: scroll;
     align-self: center;

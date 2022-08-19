@@ -1,10 +1,10 @@
-<nav class="navbar">
-  <b><%= link_to 'E PLANTS', root_path, class: "navbar-brand" %></b>
-  <button class="" type="button" data-toggle="collapse" data-target="#navbarText" aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
-    <span class=""></span>
+<nav class="navbar fixed-top navbar-expand-lg navbar-light bg-light bottom-shadow">
+  <b><%= link_to '  E PLANTS  ', root_path, class: "navbar-brand" %></b>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarText" aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
   </button>
-  <div class="navbar" id="navbarText">
-    <ul class="navbar">
+  <div class="collapse navbar-collapse" id="navbarText">
+    <ul class="navbar-nav mr-auto">
       <li class="nav-item">
         <%= link_to 'Home', root_path, class: "nav-link" %>
       </li>
@@ -24,9 +24,5 @@
       </li>
       <%end%>
     </ul>
-
-    <span class="navbar-text">
-      <p>Shop Plants</p>
-    </span>
   </div>
 </nav>

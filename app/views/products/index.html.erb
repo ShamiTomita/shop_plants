@@ -1,15 +1,13 @@
 <div class="container">
-  <h1 class="">Welcome To Plant Shopper</h1>
   <p>Lovely plants, lovely plants...</p>
-  <p data-controller="hello" data-action="click->hello#handleClick"></p>
-  <div class="">
+  <p data-controller="hello" data-action="click->hello#handleClick">clickme</p>
+  <div class="plants">
     <% @products.each do |product| %>
-      <div tabindex="-1" data-controller="product"  data-action="click->product#handleClick" class="product-card hover:shadow-lg hover:bg-violet-100 focus:outline-none focus:ring focus:ring-violet-300" id=<%=product.id%>>
+      <div tabindex="-1" data-controller="product"  data-action="click->product#handleClick" class="product-card" id=<%=product.id%>>
         <h1>Name: <%=product.name%> Price: <%= product.price %></h1>
         <%image = product.img%><%= image_tag (image) %>
-        <div class="">
-
-          <button type="button" class="">
+        <div class="product-show">
+          <button type="button" class="x-button">
               <span class="sr-only">Close menu</span>
               <!-- Heroicon name: outline/x -->
               <svg class="h-6 w-6" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true">
